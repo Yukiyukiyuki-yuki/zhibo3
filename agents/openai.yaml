@@ -1,0 +1,7 @@
+interface:
+  display_name: "UKEC留学直播启动"
+  short_description: "快速生成泛留学直播轻量化启动方案"
+  default_prompt: "Use $ukec-study-abroad-live-launch to create a lightweight launch plan for this study-abroad livestream."
+
+policy:
+  allow_implicit_invocation: true
